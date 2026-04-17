@@ -6,7 +6,7 @@ description: |
   or ask to "update content" or "work with Contentstack entries".  
 license: MIT  
 metadata:  
-  author: Rajat Goel  
+  author: Vishwas N 
   version: 1.0.0  
   category: content-management  
   tags: [contentstack, cms, content, publishing, automation]
